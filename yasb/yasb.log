@@ -1,0 +1,1878 @@
+2025-04-04 10:47:49 INFO log.py:21: Yasb v1.6.8
+2025-04-04 10:47:49 INFO config.py:60: Created default config file at C:\Users\risha\.config\yasb\config.yaml
+2025-04-04 10:47:49 INFO config.py:74: Created default stylesheet at C:\Users\risha\.config\yasb\styles.css
+2025-04-04 10:47:50 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-04 10:47:54 INFO weather.py:369: Fetched new weather data at 2025-04-04 10:47:54.570876
+2025-04-04 10:47:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-04 10:47:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-04 10:47:56 INFO event_listener.py:52: Created named pipe yasb-f0bdc7e4-117c-11f0-8684-983b8fb44956
+2025-04-04 10:47:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f0bdc7e4-117c-11f0-8684-983b8fb44956
+2025-04-04 10:47:56 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-04 10:47:56 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-04 10:47:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-04 10:47:56 DEBUG _windows.py:192: Thread started
+2025-04-04 10:47:56 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-04-04 10:52:00 INFO log.py:21: Yasb v1.6.8
+2025-04-04 10:52:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-04 10:52:04 INFO weather.py:369: Fetched new weather data at 2025-04-04 10:52:04.836850
+2025-04-04 10:52:04 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-04 10:52:05 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-04 10:52:06 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-04 10:52:06 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-04 10:52:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-04 10:52:06 DEBUG _windows.py:192: Thread started
+2025-04-04 11:02:04 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:02:04.834131
+2025-04-04 11:12:04 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:12:04.835243
+2025-04-04 11:22:04 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:22:04.832873
+2025-04-04 11:32:04 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:32:04.829207
+2025-04-04 11:38:36 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c7c4896e)
+2025-04-04 11:38:36 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-04 11:43:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:43:02.533336
+2025-04-04 11:43:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c7c4896e)
+2025-04-04 11:43:04 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-04 11:53:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 11:53:02.528115
+2025-04-04 12:03:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:03:02.542950
+2025-04-04 12:13:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:13:02.549916
+2025-04-04 12:23:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:23:02.556662
+2025-04-04 12:33:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:33:02.570806
+2025-04-04 12:43:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:43:02.561383
+2025-04-04 12:53:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 12:53:02.570302
+2025-04-04 13:03:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 13:03:02.570258
+2025-04-04 13:13:02 INFO weather.py:369: Fetched new weather data at 2025-04-04 13:13:02.573895
+2025-04-04 13:19:38 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c7c4896e)
+2025-04-04 13:19:38 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-09 15:26:08 INFO weather.py:369: Fetched new weather data at 2025-04-09 15:26:08.519130
+2025-04-09 15:26:08 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-04-09 15:26:10 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c7c4896e)
+2025-04-09 15:26:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:39:20 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:39:21 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 22:39:25 INFO weather.py:369: Fetched new weather data at 2025-04-30 22:39:25.008929
+2025-04-30 22:39:25 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 22:39:25 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:39:25 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 22:39:26 INFO weather.py:369: Fetched new weather data at 2025-04-30 22:39:26.441664
+2025-04-30 22:39:26 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:39:26 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 22:39:26 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:39:26 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:39:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:39:26 DEBUG _windows.py:192: Thread started
+2025-04-30 22:49:25 INFO weather.py:369: Fetched new weather data at 2025-04-30 22:49:25.005618
+2025-04-30 22:49:25 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 22:49:26 INFO weather.py:369: Fetched new weather data at 2025-04-30 22:49:26.462501
+2025-04-30 22:49:26 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 22:50:11 ERROR config.py:108: The config file 'C:\Users\risha\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- yasb-bar:
+  - blur_effect:
+    - dark:
+      - unknown field
+widgets:
+- traffic:
+  - null value not allowed
+
+2025-04-30 22:50:37 ERROR config.py:108: The config file 'C:\Users\risha\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- yasb-bar:
+  - blur_effect:
+    - dark:
+      - unknown field
+widgets:
+- traffic:
+  - null value not allowed
+
+2025-04-30 22:51:26 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:51:27 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:51:28 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:51:28 INFO event_listener.py:52: Created named pipe yasb-8d5115a0-25e7-11f0-9bc6-f4a80d3cb97d
+2025-04-30 22:51:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8d5115a0-25e7-11f0-9bc6-f4a80d3cb97d
+2025-04-30 22:51:28 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:51:28 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:51:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:51:28 DEBUG _windows.py:192: Thread started
+2025-04-30 22:51:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8d5115a0-25e7-11f0-9bc6-f4a80d3cb97d
+2025-04-30 22:55:20 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:55:21 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:55:21 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:55:22 INFO event_listener.py:52: Created named pipe yasb-1857582e-25e8-11f0-8526-f4a80d3cb97d
+2025-04-30 22:55:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1857582e-25e8-11f0-8526-f4a80d3cb97d
+2025-04-30 22:55:22 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:55:22 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:55:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:55:22 DEBUG _windows.py:192: Thread started
+2025-04-30 22:55:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1857582e-25e8-11f0-8526-f4a80d3cb97d
+2025-04-30 22:55:34 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:55:35 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:55:35 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:55:36 INFO event_listener.py:52: Created named pipe yasb-20c3beb4-25e8-11f0-89ca-f4a80d3cb97d
+2025-04-30 22:55:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-20c3beb4-25e8-11f0-89ca-f4a80d3cb97d
+2025-04-30 22:55:36 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:55:36 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:55:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:55:36 DEBUG _windows.py:192: Thread started
+2025-04-30 22:55:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-20c3beb4-25e8-11f0-89ca-f4a80d3cb97d
+2025-04-30 22:55:47 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:55:48 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 40px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:55:48 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 40px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:55:48 INFO event_listener.py:52: Created named pipe yasb-286e0799-25e8-11f0-83f1-f4a80d3cb97d
+2025-04-30 22:55:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-286e0799-25e8-11f0-83f1-f4a80d3cb97d
+2025-04-30 22:55:49 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:55:49 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:55:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:55:49 DEBUG _windows.py:192: Thread started
+2025-04-30 22:55:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-286e0799-25e8-11f0-83f1-f4a80d3cb97d
+2025-04-30 22:56:08 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:56:09 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 37px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:56:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 37px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:56:10 INFO event_listener.py:52: Created named pipe yasb-353eb333-25e8-11f0-af00-f4a80d3cb97d
+2025-04-30 22:56:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-353eb333-25e8-11f0-af00-f4a80d3cb97d
+2025-04-30 22:56:10 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:56:10 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:56:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:56:10 DEBUG _windows.py:192: Thread started
+2025-04-30 22:56:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-353eb333-25e8-11f0-af00-f4a80d3cb97d
+2025-04-30 22:56:27 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:56:28 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 39px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:56:29 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 39px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:56:29 INFO event_listener.py:52: Created named pipe yasb-407a2d3b-25e8-11f0-bf03-f4a80d3cb97d
+2025-04-30 22:56:29 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-407a2d3b-25e8-11f0-bf03-f4a80d3cb97d
+2025-04-30 22:56:29 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:56:29 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:56:29 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:56:29 DEBUG _windows.py:192: Thread started
+2025-04-30 22:56:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-407a2d3b-25e8-11f0-bf03-f4a80d3cb97d
+2025-04-30 22:58:53 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:58:53 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 22:58:53 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 22:58:53 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 22:58:53 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:58:54 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'media'
+2025-04-30 22:58:54 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 22:58:54 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:58:54 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      thumbnail_edge_fade:
+      - unknown field
+      
+2025-04-30 22:58:54 INFO event_listener.py:52: Created named pipe yasb-970134cc-25e8-11f0-b563-f4a80d3cb97d
+2025-04-30 22:58:54 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-970134cc-25e8-11f0-b563-f4a80d3cb97d
+2025-04-30 22:58:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-970134cc-25e8-11f0-b563-f4a80d3cb97d
+2025-04-30 22:59:14 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:59:14 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:59:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:59:14 DEBUG _windows.py:192: Thread started
+2025-04-30 22:59:21 INFO log.py:21: Yasb v1.6.8
+2025-04-30 22:59:21 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 22:59:21 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 22:59:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 22:59:21 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 22:59:22 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 22:59:22 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 22:59:22 INFO event_listener.py:52: Created named pipe yasb-a7caef3d-25e8-11f0-9d8a-f4a80d3cb97d
+2025-04-30 22:59:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a7caef3d-25e8-11f0-9d8a-f4a80d3cb97d
+2025-04-30 22:59:22 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 22:59:22 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 22:59:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 22:59:22 DEBUG _windows.py:192: Thread started
+2025-04-30 22:59:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a7caef3d-25e8-11f0-9d8a-f4a80d3cb97d
+2025-04-30 23:01:10 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:01:11 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:01:11 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:01:11 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:01:11 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:01:12 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:01:12 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:01:12 INFO event_listener.py:52: Created named pipe yasb-e924dcb7-25e8-11f0-86fd-f4a80d3cb97d
+2025-04-30 23:01:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e924dcb7-25e8-11f0-86fd-f4a80d3cb97d
+2025-04-30 23:01:12 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:01:12 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:01:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:01:12 DEBUG _windows.py:192: Thread started
+2025-04-30 23:01:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e924dcb7-25e8-11f0-86fd-f4a80d3cb97d
+2025-04-30 23:01:55 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:01:55 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:01:56 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:01:56 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:01:56 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:01:56 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:01:56 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:01:57 INFO event_listener.py:52: Created named pipe yasb-03c56d06-25e9-11f0-952c-f4a80d3cb97d
+2025-04-30 23:01:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-03c56d06-25e9-11f0-952c-f4a80d3cb97d
+2025-04-30 23:01:57 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:01:57 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:01:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:01:57 DEBUG _windows.py:192: Thread started
+2025-04-30 23:01:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-03c56d06-25e9-11f0-952c-f4a80d3cb97d
+2025-04-30 23:10:43 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:10:43 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:10:43 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:10:43 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:10:43 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:10:44 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:10:44 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:10:44 INFO event_listener.py:52: Created named pipe yasb-3e4fb1c9-25ea-11f0-8fb0-f4a80d3cb97d
+2025-04-30 23:10:44 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3e4fb1c9-25ea-11f0-8fb0-f4a80d3cb97d
+2025-04-30 23:10:44 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:10:44 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:10:44 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:10:44 DEBUG _windows.py:192: Thread started
+2025-04-30 23:10:44 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3e4fb1c9-25ea-11f0-8fb0-f4a80d3cb97d
+2025-04-30 23:19:27 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:19:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:19:27 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:19:27 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:19:28 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 38px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:19:28 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:19:28 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 38px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:19:28 INFO event_listener.py:52: Created named pipe yasb-76ac1ba2-25eb-11f0-95a8-f4a80d3cb97d
+2025-04-30 23:19:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-76ac1ba2-25eb-11f0-95a8-f4a80d3cb97d
+2025-04-30 23:19:28 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:19:28 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:19:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:19:28 DEBUG _windows.py:192: Thread started
+2025-04-30 23:19:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-76ac1ba2-25eb-11f0-95a8-f4a80d3cb97d
+2025-04-30 23:20:58 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:20:59 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:20:59 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:20:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:20:59 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 39px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:21:00 ERROR weather.py:45: API key or location is missing. Please provide a valid API key and location.
+2025-04-30 23:21:00 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 39px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:21:00 INFO event_listener.py:52: Created named pipe yasb-ad42688e-25eb-11f0-929a-f4a80d3cb97d
+2025-04-30 23:21:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ad42688e-25eb-11f0-929a-f4a80d3cb97d
+2025-04-30 23:21:00 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:21:00 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:21:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:21:00 DEBUG _windows.py:192: Thread started
+2025-04-30 23:21:00 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ad42688e-25eb-11f0-929a-f4a80d3cb97d
+2025-04-30 23:26:58 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:26:58 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:26:58.696127
+2025-04-30 23:26:58 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:26:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:26:58 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:26:59 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:26:59 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:26:59.406560
+2025-04-30 23:26:59 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:26:59 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:26:59 INFO event_listener.py:52: Created named pipe yasb-835e530e-25ec-11f0-b582-f4a80d3cb97d
+2025-04-30 23:26:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-835e530e-25ec-11f0-b582-f4a80d3cb97d
+2025-04-30 23:26:59 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:26:59 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:26:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:26:59 DEBUG _windows.py:192: Thread started
+2025-04-30 23:26:59 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-835e530e-25ec-11f0-b582-f4a80d3cb97d
+2025-04-30 23:28:39 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:28:40 ERROR widget_builder.py:64: Failed to import widget with type komorebi.control.KomorebiControlWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.9\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.komorebi.control'
+2025-04-30 23:28:40 ERROR widget_builder.py:64: Failed to import widget with type yasb.notes.NotesWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.9\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.yasb.notes'
+2025-04-30 23:28:40 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:28:40 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:28:40 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 40px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'home'
+2025-04-30 23:28:41 ERROR widget_builder.py:64: Failed to import widget with type komorebi.control.KomorebiControlWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.9\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.komorebi.control'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'komorebi_workspaces'
+2025-04-30 23:28:41 ERROR widget_builder.py:64: Failed to import widget with type yasb.notes.NotesWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.9\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.yasb.notes'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'media'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'disk'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'memory'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'cpu'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'battery'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'wifi'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'volume'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'weather'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'wallpapers'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'notifications'
+2025-04-30 23:28:41 WARNING widget_builder.py:35: Ignoring construction of invalid widget 'power_menu'
+2025-04-30 23:28:41 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 40px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:28:41 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - home
+      label_shadow:
+      - unknown field
+      
+ - komorebi_workspaces
+      btn_shadow:
+      - unknown field
+      
+ - media
+      container_shadow:
+      - unknown field
+      label_shadow:
+      - unknown field
+      
+ - disk
+      label_shadow:
+      - unknown field
+      
+ - memory
+      label_shadow:
+      - unknown field
+      
+ - cpu
+      label_shadow:
+      - unknown field
+      
+ - battery
+      label_shadow:
+      - unknown field
+      
+ - wifi
+      label_shadow:
+      - unknown field
+      
+ - volume
+      label_shadow:
+      - unknown field
+      
+ - weather
+      label_shadow:
+      - unknown field
+      
+ - wallpapers
+      label_shadow:
+      - unknown field
+      
+ - notifications
+      label_shadow:
+      - unknown field
+      
+ - power_menu
+      label_shadow:
+      - unknown field
+      
+2025-04-30 23:28:41 INFO event_listener.py:52: Created named pipe yasb-c012248b-25ec-11f0-bc85-f4a80d3cb97d
+2025-04-30 23:28:41 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c012248b-25ec-11f0-bc85-f4a80d3cb97d
+2025-04-30 23:28:41 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c012248b-25ec-11f0-bc85-f4a80d3cb97d
+2025-04-30 23:28:42 DEBUG utils.py:65: Could not open process with PID 0
+2025-04-30 23:28:42 ERROR utils.py:107: GetIconInfo failed: 0
+2025-04-30 23:28:42 DEBUG utils.py:65: Could not open process with PID 0
+2025-04-30 23:28:42 ERROR utils.py:107: GetIconInfo failed: 0
+2025-04-30 23:28:53 ERROR widget_builder.py:101: Failed to build widget(s) due to unknown widget type(s)  - komorebi_control has unknown type "komorebi.control.KomorebiControlWidget"
+ - notes has unknown type "yasb.notes.NotesWidget"
+2025-04-30 23:29:09 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:29:09 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:29:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:29:09 DEBUG _windows.py:192: Thread started
+2025-04-30 23:29:41 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:29:41 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:29:41.820909
+2025-04-30 23:29:41 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:29:41 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:29:42 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:29:42 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:29:42.638424
+2025-04-30 23:29:42 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:29:42 INFO event_listener.py:52: Created named pipe yasb-e4ac9b4e-25ec-11f0-b5a7-f4a80d3cb97d
+2025-04-30 23:29:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e4ac9b4e-25ec-11f0-b5a7-f4a80d3cb97d
+2025-04-30 23:29:42 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:29:42 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:29:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:29:42 DEBUG _windows.py:192: Thread started
+2025-04-30 23:29:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e4ac9b4e-25ec-11f0-b5a7-f4a80d3cb97d
+2025-04-30 23:30:45 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:30:45 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:30:45.483872
+2025-04-30 23:30:45 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:30:45 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:30:45 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:30:46 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:30:46.318931
+2025-04-30 23:30:46 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:30:46 INFO event_listener.py:52: Created named pipe yasb-0aa1814b-25ed-11f0-a2ba-f4a80d3cb97d
+2025-04-30 23:30:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0aa1814b-25ed-11f0-a2ba-f4a80d3cb97d
+2025-04-30 23:30:46 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:30:46 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:30:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:30:46 DEBUG _windows.py:192: Thread started
+2025-04-30 23:30:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0aa1814b-25ed-11f0-a2ba-f4a80d3cb97d
+2025-04-30 23:32:24 ERROR config.py:117: The file 'C:\Users\risha\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\risha\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\risha\.config\yasb\config.yaml", line 111, column 2
+2025-04-30 23:33:26 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:33:27 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:33:27.283162
+2025-04-30 23:33:27 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:33:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:33:27 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:33:28 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:33:28.227759
+2025-04-30 23:33:28 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:33:28 INFO event_listener.py:52: Created named pipe yasb-6b2420d9-25ed-11f0-a316-f4a80d3cb97d
+2025-04-30 23:33:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6b2420d9-25ed-11f0-a316-f4a80d3cb97d
+2025-04-30 23:33:28 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:33:28 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:33:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:33:28 DEBUG _windows.py:192: Thread started
+2025-04-30 23:33:28 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6b2420d9-25ed-11f0-a316-f4a80d3cb97d
+2025-04-30 23:34:41 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:34:41 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:34:41.965829
+2025-04-30 23:34:41 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:34:42 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:34:42 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:34:42 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:34:42.890743
+2025-04-30 23:34:42 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:34:43 INFO event_listener.py:52: Created named pipe yasb-97a5bfed-25ed-11f0-ab7a-f4a80d3cb97d
+2025-04-30 23:34:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-97a5bfed-25ed-11f0-ab7a-f4a80d3cb97d
+2025-04-30 23:34:43 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:34:43 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:34:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:34:43 DEBUG _windows.py:192: Thread started
+2025-04-30 23:34:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-97a5bfed-25ed-11f0-ab7a-f4a80d3cb97d
+2025-04-30 23:35:13 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:35:14 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:35:14.236000
+2025-04-30 23:35:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:35:14 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:35:14 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:35:15 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:35:15.182787
+2025-04-30 23:35:15 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:35:15 INFO event_listener.py:52: Created named pipe yasb-aae2f561-25ed-11f0-b454-f4a80d3cb97d
+2025-04-30 23:35:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-aae2f561-25ed-11f0-b454-f4a80d3cb97d
+2025-04-30 23:35:15 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:35:15 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:35:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:35:15 DEBUG _windows.py:192: Thread started
+2025-04-30 23:35:15 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-aae2f561-25ed-11f0-b454-f4a80d3cb97d
+2025-04-30 23:36:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:37:54 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:37:54 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:37:54.970684
+2025-04-30 23:37:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:37:55 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:37:55 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:37:55 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:37:55.795666
+2025-04-30 23:37:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:37:56 INFO event_listener.py:52: Created named pipe yasb-0aa01c05-25ee-11f0-8efa-f4a80d3cb97d
+2025-04-30 23:37:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0aa01c05-25ee-11f0-8efa-f4a80d3cb97d
+2025-04-30 23:37:56 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:37:56 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:37:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:37:56 DEBUG _windows.py:192: Thread started
+2025-04-30 23:37:56 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0aa01c05-25ee-11f0-8efa-f4a80d3cb97d
+2025-04-30 23:39:27 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:39:28 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:39:28.001733
+2025-04-30 23:39:28 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:39:28 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:39:28 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:39:28 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:39:28.819845
+2025-04-30 23:39:28 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:39:28 INFO event_listener.py:52: Created named pipe yasb-4210ccc8-25ee-11f0-af71-f4a80d3cb97d
+2025-04-30 23:39:29 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-4210ccc8-25ee-11f0-af71-f4a80d3cb97d
+2025-04-30 23:39:29 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:39:29 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:39:29 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:39:29 DEBUG _windows.py:192: Thread started
+2025-04-30 23:39:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-4210ccc8-25ee-11f0-af71-f4a80d3cb97d
+2025-04-30 23:39:37 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:39:37 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:39:37.716280
+2025-04-30 23:39:37 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:39:37 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:39:37 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:39:38 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:39:38.523768
+2025-04-30 23:39:38 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:39:38 INFO event_listener.py:52: Created named pipe yasb-47da0c22-25ee-11f0-9190-f4a80d3cb97d
+2025-04-30 23:39:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-47da0c22-25ee-11f0-9190-f4a80d3cb97d
+2025-04-30 23:39:38 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:39:38 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:39:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:39:38 DEBUG _windows.py:192: Thread started
+2025-04-30 23:39:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-47da0c22-25ee-11f0-9190-f4a80d3cb97d
+2025-04-30 23:41:05 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:41:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:41:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:42:50 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:43:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-04-30 23:45:58 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:45:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:45:58 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:45:58 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:45:58.880261
+2025-04-30 23:45:59 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:46:00 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:46:00 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:46:00.681200
+2025-04-30 23:46:00 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:46:00 INFO event_listener.py:52: Created named pipe yasb-2ba4a25f-25ef-11f0-bbb7-f4a80d3cb97d
+2025-04-30 23:46:00 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:46:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2ba4a25f-25ef-11f0-bbb7-f4a80d3cb97d
+2025-04-30 23:46:00 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:46:00 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:46:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:46:00 DEBUG _windows.py:192: Thread started
+2025-04-30 23:46:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2ba4a25f-25ef-11f0-bbb7-f4a80d3cb97d
+2025-04-30 23:46:01 ERROR github.py:410: HTTP Error occurred: 401 - {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2025-04-30 23:46:01 ERROR github.py:410: HTTP Error occurred: 401 - {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2025-04-30 23:46:46 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:46:47 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:46:47 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:46:47 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:46:47.698636
+2025-04-30 23:46:47 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:46:48 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:46:48 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:46:48.369560
+2025-04-30 23:46:48 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:46:48 INFO event_listener.py:52: Created named pipe yasb-480ced18-25ef-11f0-a4e3-f4a80d3cb97d
+2025-04-30 23:46:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-480ced18-25ef-11f0-a4e3-f4a80d3cb97d
+2025-04-30 23:46:48 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:46:48 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:46:48 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:46:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:46:48 DEBUG _windows.py:192: Thread started
+2025-04-30 23:46:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-480ced18-25ef-11f0-a4e3-f4a80d3cb97d
+2025-04-30 23:47:09 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:47:09 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:47:09 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:47:09 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:47:09.692606
+2025-04-30 23:47:09 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:47:10 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:47:10 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:47:10.386909
+2025-04-30 23:47:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:47:10 INFO event_listener.py:52: Created named pipe yasb-5529dc65-25ef-11f0-b52d-f4a80d3cb97d
+2025-04-30 23:47:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5529dc65-25ef-11f0-b52d-f4a80d3cb97d
+2025-04-30 23:47:10 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-04-30 23:47:10 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:47:10 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:47:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:47:10 DEBUG _windows.py:192: Thread started
+2025-04-30 23:47:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5529dc65-25ef-11f0-b52d-f4a80d3cb97d
+2025-04-30 23:48:14 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:48:14 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:48:15 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:48:15 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:48:15.128616
+2025-04-30 23:48:15 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:48:15 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:48:15.839780
+2025-04-30 23:48:15 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:48:15 INFO event_listener.py:52: Created named pipe yasb-7c2d6bc3-25ef-11f0-81cd-f4a80d3cb97d
+2025-04-30 23:48:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7c2d6bc3-25ef-11f0-81cd-f4a80d3cb97d
+2025-04-30 23:48:16 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:48:16 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:48:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:48:16 DEBUG _windows.py:192: Thread started
+2025-04-30 23:48:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7c2d6bc3-25ef-11f0-81cd-f4a80d3cb97d
+2025-04-30 23:49:35 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:49:35 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:49:36 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:49:36 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:49:36.261645
+2025-04-30 23:49:36 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:49:36 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:49:36.976169
+2025-04-30 23:49:36 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:49:37 INFO event_listener.py:52: Created named pipe yasb-ac899428-25ef-11f0-abb5-f4a80d3cb97d
+2025-04-30 23:49:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ac899428-25ef-11f0-abb5-f4a80d3cb97d
+2025-04-30 23:49:37 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:49:37 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:49:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:49:37 DEBUG _windows.py:192: Thread started
+2025-04-30 23:49:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ac899428-25ef-11f0-abb5-f4a80d3cb97d
+2025-04-30 23:50:03 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:50:03 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:50:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:50:03 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:03.973773
+2025-04-30 23:50:04 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:50:04 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:04.642833
+2025-04-30 23:50:04 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:50:04 INFO event_listener.py:52: Created named pipe yasb-bd08e976-25ef-11f0-b0ff-f4a80d3cb97d
+2025-04-30 23:50:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-bd08e976-25ef-11f0-b0ff-f4a80d3cb97d
+2025-04-30 23:50:04 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:50:04 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:50:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:50:04 DEBUG _windows.py:192: Thread started
+2025-04-30 23:50:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-bd08e976-25ef-11f0-b0ff-f4a80d3cb97d
+2025-04-30 23:50:33 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:50:33 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:50:34 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:50:34 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:34.157175
+2025-04-30 23:50:34 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:50:34 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:34.861199
+2025-04-30 23:50:34 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:50:35 INFO event_listener.py:52: Created named pipe yasb-cf09105b-25ef-11f0-8d21-f4a80d3cb97d
+2025-04-30 23:50:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-cf09105b-25ef-11f0-8d21-f4a80d3cb97d
+2025-04-30 23:50:35 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:50:35 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:50:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:50:35 DEBUG _windows.py:192: Thread started
+2025-04-30 23:50:35 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-cf09105b-25ef-11f0-8d21-f4a80d3cb97d
+2025-04-30 23:50:44 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:50:44 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:50:45 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:50:45 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:45.302233
+2025-04-30 23:50:45 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:50:46 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:50:46.003558
+2025-04-30 23:50:46 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:50:46 INFO event_listener.py:52: Created named pipe yasb-d5af3ce2-25ef-11f0-8c8e-f4a80d3cb97d
+2025-04-30 23:50:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d5af3ce2-25ef-11f0-8c8e-f4a80d3cb97d
+2025-04-30 23:50:46 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:50:46 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:50:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:50:46 DEBUG _windows.py:192: Thread started
+2025-04-30 23:50:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d5af3ce2-25ef-11f0-8c8e-f4a80d3cb97d
+2025-04-30 23:53:22 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:53:23 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:53:23 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:53:23 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:53:23.619414
+2025-04-30 23:53:23 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:53:24 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:53:24.344135
+2025-04-30 23:53:24 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:53:24 INFO event_listener.py:52: Created named pipe yasb-34126936-25f0-11f0-a5a6-f4a80d3cb97d
+2025-04-30 23:53:24 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-34126936-25f0-11f0-a5a6-f4a80d3cb97d
+2025-04-30 23:53:24 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:53:24 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:53:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:53:24 DEBUG _windows.py:192: Thread started
+2025-04-30 23:53:24 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-34126936-25f0-11f0-a5a6-f4a80d3cb97d
+2025-04-30 23:53:37 INFO log.py:21: Yasb v1.6.8
+2025-04-30 23:53:38 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-30 23:53:38 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-30 23:53:38 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:53:38.500998
+2025-04-30 23:53:38 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-04-30 23:53:39 INFO weather.py:369: Fetched new weather data at 2025-04-30 23:53:39.232693
+2025-04-30 23:53:39 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-04-30 23:53:39 INFO event_listener.py:52: Created named pipe yasb-3cf1c69b-25f0-11f0-818f-f4a80d3cb97d
+2025-04-30 23:53:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3cf1c69b-25f0-11f0-818f-f4a80d3cb97d
+2025-04-30 23:53:39 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-04-30 23:53:39 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-04-30 23:53:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-30 23:53:39 DEBUG _windows.py:192: Thread started
+2025-04-30 23:53:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3cf1c69b-25f0-11f0-818f-f4a80d3cb97d
+2025-05-01 00:03:38 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:03:38.707995
+2025-05-01 00:03:40 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:03:40.630219
+2025-05-01 00:13:38 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:13:38.726806
+2025-05-01 00:13:39 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:13:39.381244
+2025-05-01 00:23:38 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:23:38.504338
+2025-05-01 00:23:39 INFO weather.py:369: Fetched new weather data at 2025-05-01 00:23:39.241903
+2025-05-01 00:24:10 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-01 00:24:10 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-01 07:56:56 INFO log.py:21: Yasb v1.6.8
+2025-05-01 07:56:57 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 07:57:00 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 07:57:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 07:57:01.089504
+2025-05-01 07:57:01 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 07:57:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 07:57:01.865053
+2025-05-01 07:57:01 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 07:57:02 INFO event_listener.py:52: Created named pipe yasb-c3dc7b00-2633-11f0-87e7-983b8fb44956
+2025-05-01 07:57:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c3dc7b00-2633-11f0-87e7-983b8fb44956
+2025-05-01 07:57:02 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 07:57:02 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 07:57:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 07:57:02 DEBUG _windows.py:192: Thread started
+2025-05-01 07:57:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c3dc7b00-2633-11f0-87e7-983b8fb44956
+2025-05-01 08:07:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:07:01.081048
+2025-05-01 08:07:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:07:01.883758
+2025-05-01 08:17:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:17:01.088681
+2025-05-01 08:17:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:17:01.903976
+2025-05-01 08:27:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:27:01.104669
+2025-05-01 08:27:01 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:27:01.902406
+2025-05-01 08:32:42 INFO log.py:21: Yasb v1.6.8
+2025-05-01 08:32:42 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 08:32:42 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 08:32:42 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:32:42.669026
+2025-05-01 08:32:42 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 08:32:43 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:32:43.361028
+2025-05-01 08:32:43 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 08:32:43 INFO event_listener.py:52: Created named pipe yasb-c04c9d19-2638-11f0-b02e-983b8fb44956
+2025-05-01 08:32:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c04c9d19-2638-11f0-b02e-983b8fb44956
+2025-05-01 08:32:43 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 08:32:43 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 08:32:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 08:32:43 DEBUG _windows.py:192: Thread started
+2025-05-01 08:32:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c04c9d19-2638-11f0-b02e-983b8fb44956
+2025-05-01 08:33:11 INFO log.py:21: Yasb v1.6.8
+2025-05-01 08:33:11 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 08:33:12 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 08:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:33:12.191378
+2025-05-01 08:33:12 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 08:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:33:12.854015
+2025-05-01 08:33:12 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 08:33:13 INFO event_listener.py:52: Created named pipe yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 08:33:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 08:33:13 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 08:33:13 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 08:33:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 08:33:13 DEBUG _windows.py:192: Thread started
+2025-05-01 08:33:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 08:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:43:12.190746
+2025-05-01 08:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:43:12.854351
+2025-05-01 08:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:53:12.193954
+2025-05-01 08:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 08:53:12.857308
+2025-05-01 09:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:03:12.205373
+2025-05-01 09:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:03:12.862901
+2025-05-01 09:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:13:12.205703
+2025-05-01 09:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:13:12.864954
+2025-05-01 09:20:16 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-01 09:20:16 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-01 09:20:21 INFO event_listener.py:52: Created named pipe yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 09:20:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 09:20:21 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-05-01 09:20:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d1de8b0b-2638-11f0-9075-983b8fb44956
+2025-05-01 09:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:23:12.199307
+2025-05-01 09:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:23:12.869761
+2025-05-01 09:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:33:12.199124
+2025-05-01 09:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:33:12.874941
+2025-05-01 09:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:43:12.194287
+2025-05-01 09:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:43:12.868949
+2025-05-01 09:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:53:12.204251
+2025-05-01 09:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 09:53:12.876930
+2025-05-01 10:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:03:12.210421
+2025-05-01 10:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:03:12.883324
+2025-05-01 10:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:13:12.214377
+2025-05-01 10:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:13:12.892105
+2025-05-01 10:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:23:12.215138
+2025-05-01 10:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:23:12.889730
+2025-05-01 10:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:33:12.215367
+2025-05-01 10:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:33:12.886444
+2025-05-01 10:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:43:12.209201
+2025-05-01 10:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:43:12.886494
+2025-05-01 10:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:53:12.212664
+2025-05-01 10:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 10:53:12.883205
+2025-05-01 11:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:03:12.208786
+2025-05-01 11:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:03:12.883395
+2025-05-01 11:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:13:12.212008
+2025-05-01 11:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:13:12.880621
+2025-05-01 11:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:23:12.213339
+2025-05-01 11:23:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:23:12.881364
+2025-05-01 11:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:33:12.220609
+2025-05-01 11:33:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:33:12.886663
+2025-05-01 11:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:43:12.215434
+2025-05-01 11:43:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:43:12.889618
+2025-05-01 11:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:53:12.223583
+2025-05-01 11:53:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 11:53:12.892135
+2025-05-01 12:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:03:12.233938
+2025-05-01 12:03:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:03:12.889074
+2025-05-01 12:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:13:12.232094
+2025-05-01 12:13:12 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:13:12.887110
+2025-05-01 12:16:35 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-05-01 12:16:41 INFO log.py:21: Yasb v1.6.8
+2025-05-01 12:16:43 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 12:16:52 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 12:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:16:53.317985
+2025-05-01 12:16:53 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 12:16:54 INFO event_listener.py:52: Created named pipe yasb-11f68c6b-2658-11f0-afd5-983b8fb44956
+2025-05-01 12:16:54 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-11f68c6b-2658-11f0-afd5-983b8fb44956
+2025-05-01 12:16:55 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 12:16:55 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 12:16:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 12:16:55 DEBUG _windows.py:192: Thread started
+2025-05-01 12:16:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-11f68c6b-2658-11f0-afd5-983b8fb44956
+2025-05-01 12:17:53 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-05-01 12:17:54 INFO log.py:21: Yasb v1.6.8
+2025-05-01 12:17:55 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 12:17:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 12:17:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:17:56.137720
+2025-05-01 12:17:56 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 12:17:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:17:57.074820
+2025-05-01 12:17:57 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 12:17:57 INFO event_listener.py:52: Created named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:17:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:17:57 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 12:17:57 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 12:17:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 12:17:57 DEBUG _windows.py:192: Thread started
+2025-05-01 12:17:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:21:44 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-01 12:21:44 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-01 12:21:49 INFO event_listener.py:52: Created named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:21:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:21:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:22:52 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-01 12:22:52 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-01 12:22:57 INFO event_listener.py:52: Created named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:22:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:22:58 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-05-01 12:24:08 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-372a0822-2658-11f0-95e4-983b8fb44956
+2025-05-01 12:27:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:27:56.144086
+2025-05-01 12:27:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:27:57.070552
+2025-05-01 12:37:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:37:56.141990
+2025-05-01 12:37:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:37:57.073942
+2025-05-01 12:47:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:47:56.135612
+2025-05-01 12:47:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:47:57.075951
+2025-05-01 12:57:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:57:56.131309
+2025-05-01 12:57:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 12:57:57.082693
+2025-05-01 13:07:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:07:56.134661
+2025-05-01 13:07:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:07:57.092521
+2025-05-01 13:17:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:17:56.138072
+2025-05-01 13:17:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:17:57.085804
+2025-05-01 13:27:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:27:56.150419
+2025-05-01 13:27:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:27:57.095821
+2025-05-01 13:37:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:37:56.159268
+2025-05-01 13:37:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:37:57.094400
+2025-05-01 13:47:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:47:56.170080
+2025-05-01 13:47:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:47:57.096439
+2025-05-01 13:57:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:57:56.173571
+2025-05-01 13:57:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 13:57:57.094491
+2025-05-01 14:07:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:07:56.174281
+2025-05-01 14:07:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:07:57.088836
+2025-05-01 14:17:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:17:56.174756
+2025-05-01 14:17:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:17:57.087647
+2025-05-01 14:27:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:27:56.159906
+2025-05-01 14:27:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:27:57.092178
+2025-05-01 14:37:56 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:37:56.177193
+2025-05-01 14:37:57 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:37:57.097002
+2025-05-01 14:47:51 DEBUG _windows.py:218: Stopping worker thread...
+2025-05-01 14:47:51 DEBUG _windows.py:201: Exiting thread
+2025-05-01 14:47:51 DEBUG _windows.py:75: Closing
+2025-05-01 14:47:51 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000022A39ED9BD0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-01 14:51:08 INFO log.py:21: Yasb v1.6.8
+2025-05-01 14:51:09 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 14:51:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 14:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:51:15.032648
+2025-05-01 14:51:15 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 14:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 14:51:16.126386
+2025-05-01 14:51:16 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 14:51:16 INFO event_listener.py:52: Created named pipe yasb-a22a1862-266d-11f0-a5fa-983b8fb44956
+2025-05-01 14:51:16 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a22a1862-266d-11f0-a5fa-983b8fb44956
+2025-05-01 14:51:16 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 14:51:16 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 14:51:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 14:51:16 DEBUG _windows.py:192: Thread started
+2025-05-01 14:51:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a22a1862-266d-11f0-a5fa-983b8fb44956
+2025-05-01 15:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:01:15.037192
+2025-05-01 15:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:01:16.125412
+2025-05-01 15:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:11:15.039851
+2025-05-01 15:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:11:16.127574
+2025-05-01 15:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:21:15.045615
+2025-05-01 15:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:21:16.121926
+2025-05-01 15:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:31:15.039177
+2025-05-01 15:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:31:16.117977
+2025-05-01 15:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:41:15.040265
+2025-05-01 15:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:41:16.133844
+2025-05-01 15:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:51:15.050055
+2025-05-01 15:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 15:51:16.146140
+2025-05-01 16:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:01:15.048868
+2025-05-01 16:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:01:16.163185
+2025-05-01 16:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:11:15.042565
+2025-05-01 16:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:11:16.171857
+2025-05-01 16:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:21:15.048509
+2025-05-01 16:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:21:16.182473
+2025-05-01 16:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:31:15.048050
+2025-05-01 16:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:31:16.186924
+2025-05-01 16:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:41:15.050177
+2025-05-01 16:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:41:16.192074
+2025-05-01 16:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:51:15.059388
+2025-05-01 16:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 16:51:16.201208
+2025-05-01 17:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:01:15.063559
+2025-05-01 17:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:01:16.209844
+2025-05-01 17:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:11:15.064527
+2025-05-01 17:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:11:16.224604
+2025-05-01 17:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:21:15.063165
+2025-05-01 17:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:21:16.236513
+2025-05-01 17:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:31:15.063974
+2025-05-01 17:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:31:16.237367
+2025-05-01 17:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:41:15.074379
+2025-05-01 17:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:41:16.237559
+2025-05-01 17:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:51:15.069885
+2025-05-01 17:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 17:51:16.239674
+2025-05-01 18:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:01:15.072130
+2025-05-01 18:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:01:16.247090
+2025-05-01 18:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:11:15.077585
+2025-05-01 18:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:11:16.254495
+2025-05-01 18:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:21:15.090292
+2025-05-01 18:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:21:16.270121
+2025-05-01 18:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:31:15.092126
+2025-05-01 18:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:31:16.272485
+2025-05-01 18:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:41:15.085563
+2025-05-01 18:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:41:16.276226
+2025-05-01 18:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:51:15.098817
+2025-05-01 18:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 18:51:16.281967
+2025-05-01 19:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:01:15.117943
+2025-05-01 19:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:01:16.279134
+2025-05-01 19:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:11:15.129333
+2025-05-01 19:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:11:16.276286
+2025-05-01 19:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:21:15.151285
+2025-05-01 19:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:21:16.278808
+2025-05-01 19:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:31:15.166563
+2025-05-01 19:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:31:16.296452
+2025-05-01 19:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:41:15.184544
+2025-05-01 19:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:41:16.292358
+2025-05-01 19:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:51:15.189056
+2025-05-01 19:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 19:51:16.301721
+2025-05-01 20:01:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:01:15.202845
+2025-05-01 20:01:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:01:16.314898
+2025-05-01 20:11:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:11:15.208631
+2025-05-01 20:11:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:11:16.316470
+2025-05-01 20:21:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:21:15.219118
+2025-05-01 20:21:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:21:16.317670
+2025-05-01 20:31:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:31:15.221646
+2025-05-01 20:31:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:31:16.331357
+2025-05-01 20:41:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:41:15.233191
+2025-05-01 20:41:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:41:16.326360
+2025-05-01 20:51:15 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:51:15.241469
+2025-05-01 20:51:16 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:51:16.332059
+2025-05-01 20:57:32 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-05-01 20:57:38 INFO log.py:21: Yasb v1.6.8
+2025-05-01 20:57:40 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 20:57:48 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 20:57:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 20:57:49.243368
+2025-05-01 20:57:49 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 20:57:50 INFO event_listener.py:52: Created named pipe yasb-d7b227fe-26a0-11f0-8d1b-983b8fb44956
+2025-05-01 20:57:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d7b227fe-26a0-11f0-8d1b-983b8fb44956
+2025-05-01 20:57:50 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 20:57:50 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 20:57:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 20:57:50 DEBUG _windows.py:192: Thread started
+2025-05-01 20:57:50 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d7b227fe-26a0-11f0-8d1b-983b8fb44956
+2025-05-01 21:07:00 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{fba16736-1662-435b-a2c5-3e2a65e928ca}
+2025-05-01 21:07:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:07:49.269076
+2025-05-01 21:17:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:17:49.285573
+2025-05-01 21:27:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:27:49.291981
+2025-05-01 21:37:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:37:49.301004
+2025-05-01 21:47:49 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:47:49.301344
+2025-05-01 21:55:56 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_f5d437c7)
+2025-05-01 21:55:56 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 21:56:51 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-05-01 21:56:52 INFO log.py:21: Yasb v1.6.8
+2025-05-01 21:56:52 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-01 21:56:53 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-01 21:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:56:53.828132
+2025-05-01 21:56:53 INFO app_bar.py:103: Bar Created on Screen: KG241Q S [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-01 21:56:53 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-01 21:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 21:56:55.294926
+2025-05-01 21:56:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: -1920, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-01 21:56:55 INFO event_listener.py:52: Created named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-01 21:56:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-01 21:56:55 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-01 21:56:55 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-01 21:56:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-01 21:56:55 DEBUG _windows.py:192: Thread started
+2025-05-01 21:56:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-01 22:06:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:06:53.827063
+2025-05-01 22:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:06:55.297648
+2025-05-01 22:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:16:53.825606
+2025-05-01 22:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:16:55.291555
+2025-05-01 22:26:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:26:53.830109
+2025-05-01 22:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:26:55.310391
+2025-05-01 22:36:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:36:53.837010
+2025-05-01 22:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:36:55.320413
+2025-05-01 22:46:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:46:53.844786
+2025-05-01 22:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:46:55.332227
+2025-05-01 22:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:56:53.846199
+2025-05-01 22:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 22:56:55.331235
+2025-05-01 23:06:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:06:53.841848
+2025-05-01 23:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:06:55.322970
+2025-05-01 23:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:16:53.844264
+2025-05-01 23:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:16:55.324733
+2025-05-01 23:26:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:26:53.846478
+2025-05-01 23:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:26:55.330651
+2025-05-01 23:36:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:36:53.855638
+2025-05-01 23:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:36:55.339300
+2025-05-01 23:46:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:46:53.869304
+2025-05-01 23:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:46:55.349957
+2025-05-01 23:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:56:53.871167
+2025-05-01 23:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-01 23:56:55.368403
+2025-05-02 00:06:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:06:53.872334
+2025-05-02 00:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:06:55.373762
+2025-05-02 00:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:16:53.869128
+2025-05-02 00:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:16:55.379651
+2025-05-02 00:26:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:26:53.883834
+2025-05-02 00:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:26:55.394730
+2025-05-02 00:36:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:36:53.897210
+2025-05-02 00:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:36:55.380699
+2025-05-02 00:46:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:46:53.913412
+2025-05-02 00:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:46:55.383351
+2025-05-02 00:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:56:53.923413
+2025-05-02 00:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 00:56:55.393021
+2025-05-02 01:06:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:06:53.914558
+2025-05-02 01:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:06:55.391647
+2025-05-02 01:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:16:53.932519
+2025-05-02 01:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:16:55.390769
+2025-05-02 01:26:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:26:53.933089
+2025-05-02 01:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:26:55.385219
+2025-05-02 01:36:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:36:53.939101
+2025-05-02 01:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:36:55.391569
+2025-05-02 01:46:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:46:53.931036
+2025-05-02 01:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:46:55.387590
+2025-05-02 01:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:56:53.938571
+2025-05-02 01:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 01:56:55.388601
+2025-05-02 02:06:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:06:53.946962
+2025-05-02 02:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:06:55.399840
+2025-05-02 02:16:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:16:53.959962
+2025-05-02 02:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:16:55.408133
+2025-05-02 02:26:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:26:53.968662
+2025-05-02 02:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:26:55.413750
+2025-05-02 02:36:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:36:53.976414
+2025-05-02 02:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:36:55.421139
+2025-05-02 02:46:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:46:53.981100
+2025-05-02 02:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:46:55.435252
+2025-05-02 02:56:53 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:56:53.996665
+2025-05-02 02:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 02:56:55.438016
+2025-05-02 03:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:06:54.004710
+2025-05-02 03:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:06:55.443157
+2025-05-02 03:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:16:54.016531
+2025-05-02 03:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:16:55.455663
+2025-05-02 03:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:26:54.007223
+2025-05-02 03:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:26:55.454024
+2025-05-02 03:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:36:54.018279
+2025-05-02 03:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:36:55.445185
+2025-05-02 03:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:46:54.012216
+2025-05-02 03:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:46:55.466434
+2025-05-02 03:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:56:54.010146
+2025-05-02 03:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 03:56:55.460289
+2025-05-02 04:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:06:54.019325
+2025-05-02 04:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:06:55.471018
+2025-05-02 04:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:16:54.032586
+2025-05-02 04:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:16:55.473277
+2025-05-02 04:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:26:54.036049
+2025-05-02 04:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:26:55.491850
+2025-05-02 04:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:36:54.050937
+2025-05-02 04:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:36:55.499689
+2025-05-02 04:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:46:54.057301
+2025-05-02 04:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:46:55.502409
+2025-05-02 04:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:56:54.072704
+2025-05-02 04:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 04:56:55.507754
+2025-05-02 05:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:06:54.084510
+2025-05-02 05:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:06:55.523699
+2025-05-02 05:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:16:54.095775
+2025-05-02 05:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:16:55.533550
+2025-05-02 05:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:26:54.102336
+2025-05-02 05:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:26:55.535488
+2025-05-02 05:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:36:54.108866
+2025-05-02 05:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:36:55.551641
+2025-05-02 05:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:46:54.117071
+2025-05-02 05:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:46:55.570380
+2025-05-02 05:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:56:54.137220
+2025-05-02 05:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 05:56:55.580887
+2025-05-02 06:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:06:54.134786
+2025-05-02 06:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:06:55.590211
+2025-05-02 06:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:16:54.129622
+2025-05-02 06:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:16:55.598799
+2025-05-02 06:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:26:54.152267
+2025-05-02 06:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:26:55.616384
+2025-05-02 06:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:36:54.167112
+2025-05-02 06:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:36:55.643650
+2025-05-02 06:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:46:54.189140
+2025-05-02 06:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:46:55.642339
+2025-05-02 06:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:56:54.162117
+2025-05-02 06:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 06:56:55.646986
+2025-05-02 07:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:06:54.163321
+2025-05-02 07:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:06:55.659134
+2025-05-02 07:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:16:54.170651
+2025-05-02 07:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:16:55.652863
+2025-05-02 07:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:26:54.171564
+2025-05-02 07:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:26:55.645093
+2025-05-02 07:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:36:54.160947
+2025-05-02 07:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:36:55.651850
+2025-05-02 07:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:46:54.170392
+2025-05-02 07:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:46:55.657630
+2025-05-02 07:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:56:54.162831
+2025-05-02 07:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 07:56:55.651311
+2025-05-02 08:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:06:54.175503
+2025-05-02 08:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:06:55.654930
+2025-05-02 08:10:09 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-02 08:10:09 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-02 08:10:14 INFO event_listener.py:52: Created named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:10:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:10:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-05-02 08:10:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:12:38 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-02 08:12:38 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-02 08:12:43 INFO event_listener.py:52: Created named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:12:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:12:44 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:12:45 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:48 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:50 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:52 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:54 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:56 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:12:58 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:13:00 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:13:03 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:13:05 ERROR event_listener.py:122: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-02 08:13:07 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-02 08:13:07 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-02 08:13:12 INFO event_listener.py:52: Created named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:13:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:13:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 08:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:16:54.161484
+2025-05-02 08:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:16:55.659327
+2025-05-02 08:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:26:54.164785
+2025-05-02 08:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:26:55.652178
+2025-05-02 08:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:36:54.171275
+2025-05-02 08:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:36:55.653193
+2025-05-02 08:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:46:54.167008
+2025-05-02 08:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:46:55.661617
+2025-05-02 08:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:56:54.168804
+2025-05-02 08:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 08:56:55.652775
+2025-05-02 09:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:06:54.175427
+2025-05-02 09:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:06:55.655748
+2025-05-02 09:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:16:54.183441
+2025-05-02 09:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:16:55.654429
+2025-05-02 09:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:26:54.196457
+2025-05-02 09:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:26:55.666586
+2025-05-02 09:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:36:54.212452
+2025-05-02 09:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:36:55.663779
+2025-05-02 09:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:46:54.211991
+2025-05-02 09:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:46:55.681191
+2025-05-02 09:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:56:54.208831
+2025-05-02 09:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 09:56:55.679637
+2025-05-02 10:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:06:54.211433
+2025-05-02 10:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:06:55.690000
+2025-05-02 10:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:16:54.219091
+2025-05-02 10:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:16:55.677973
+2025-05-02 10:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:26:54.214665
+2025-05-02 10:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:26:55.682507
+2025-05-02 10:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:36:54.221366
+2025-05-02 10:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:36:55.689097
+2025-05-02 10:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:46:54.207428
+2025-05-02 10:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:46:55.677791
+2025-05-02 10:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:56:54.225272
+2025-05-02 10:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 10:56:55.690754
+2025-05-02 11:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:06:54.228577
+2025-05-02 11:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:06:55.678975
+2025-05-02 11:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:16:54.232958
+2025-05-02 11:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:16:55.681725
+2025-05-02 11:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:26:54.252187
+2025-05-02 11:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:26:55.686240
+2025-05-02 11:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:36:54.253606
+2025-05-02 11:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:36:55.694667
+2025-05-02 11:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:46:54.247245
+2025-05-02 11:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:46:55.720607
+2025-05-02 11:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:56:54.241519
+2025-05-02 11:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 11:56:55.710682
+2025-05-02 12:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:06:54.254165
+2025-05-02 12:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:06:55.707716
+2025-05-02 12:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:16:54.256843
+2025-05-02 12:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:16:55.725051
+2025-05-02 12:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:26:54.260066
+2025-05-02 12:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:26:55.733064
+2025-05-02 12:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:36:54.258674
+2025-05-02 12:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:36:55.731641
+2025-05-02 12:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:46:54.259160
+2025-05-02 12:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:46:55.745654
+2025-05-02 12:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:56:54.262183
+2025-05-02 12:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 12:56:55.752962
+2025-05-02 13:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:06:54.254857
+2025-05-02 13:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:06:55.741893
+2025-05-02 13:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:16:54.259621
+2025-05-02 13:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:16:55.744292
+2025-05-02 13:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:26:54.262603
+2025-05-02 13:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:26:55.752402
+2025-05-02 13:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:36:54.262852
+2025-05-02 13:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:36:55.765463
+2025-05-02 13:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:46:54.255348
+2025-05-02 13:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:46:55.754858
+2025-05-02 13:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:56:54.255916
+2025-05-02 13:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 13:56:55.755073
+2025-05-02 14:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:06:54.262833
+2025-05-02 14:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:06:55.756894
+2025-05-02 14:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:16:54.260863
+2025-05-02 14:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:16:55.754863
+2025-05-02 14:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:26:54.256078
+2025-05-02 14:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:26:55.755073
+2025-05-02 14:35:14 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-02 14:35:14 INFO event_listener.py:93: Attempting to reconnect...
+2025-05-02 14:35:19 INFO event_listener.py:52: Created named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 14:35:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 14:35:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-18c4ed16-26a9-11f0-be68-983b8fb44956
+2025-05-02 14:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:36:54.257781
+2025-05-02 14:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:36:55.757123
+2025-05-02 14:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:46:54.256891
+2025-05-02 14:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:46:55.755350
+2025-05-02 14:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:56:54.256526
+2025-05-02 14:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 14:56:55.763503
+2025-05-02 15:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:06:54.254748
+2025-05-02 15:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:06:55.754750
+2025-05-02 15:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:16:54.258671
+2025-05-02 15:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:16:55.757245
+2025-05-02 15:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:26:54.257750
+2025-05-02 15:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:26:55.755563
+2025-05-02 15:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:36:54.256264
+2025-05-02 15:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:36:55.757343
+2025-05-02 15:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:46:54.256762
+2025-05-02 15:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:46:55.754994
+2025-05-02 15:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:56:54.259500
+2025-05-02 15:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 15:56:55.754626
+2025-05-02 16:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:06:54.261105
+2025-05-02 16:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:06:55.759587
+2025-05-02 16:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:16:54.257599
+2025-05-02 16:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:16:55.754666
+2025-05-02 16:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:26:54.256883
+2025-05-02 16:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:26:55.754574
+2025-05-02 16:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:36:54.257951
+2025-05-02 16:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:36:55.756412
+2025-05-02 16:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:46:54.255553
+2025-05-02 16:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:46:55.757471
+2025-05-02 16:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:56:54.255636
+2025-05-02 16:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 16:56:55.759723
+2025-05-02 17:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:06:54.257946
+2025-05-02 17:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:06:55.756618
+2025-05-02 17:07:25 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{9b86bcdb-bf0a-4688-80cc-0d9af34f9ba9}
+2025-05-02 17:07:26 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{be582b5c-0524-402d-8da5-32d885837af4}
+2025-05-02 17:07:27 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{82777277-4229-4ba6-acd4-7e8977eef1df}
+2025-05-02 17:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:16:54.257017
+2025-05-02 17:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:16:55.754156
+2025-05-02 17:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:26:54.259513
+2025-05-02 17:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:26:55.762789
+2025-05-02 17:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:36:54.255933
+2025-05-02 17:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:36:55.770973
+2025-05-02 17:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:46:54.270020
+2025-05-02 17:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:46:55.780785
+2025-05-02 17:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:56:54.268731
+2025-05-02 17:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 17:56:55.781178
+2025-05-02 18:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:06:54.270972
+2025-05-02 18:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:06:55.782962
+2025-05-02 18:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:16:54.273199
+2025-05-02 18:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:16:55.792261
+2025-05-02 18:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:26:54.294744
+2025-05-02 18:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:26:55.799534
+2025-05-02 18:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:36:54.292714
+2025-05-02 18:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:36:55.810090
+2025-05-02 18:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:46:54.316633
+2025-05-02 18:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:46:55.809280
+2025-05-02 18:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:56:54.313460
+2025-05-02 18:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 18:56:55.814626
+2025-05-02 19:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:06:54.305462
+2025-05-02 19:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:06:55.817390
+2025-05-02 19:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:16:54.327844
+2025-05-02 19:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:16:55.805147
+2025-05-02 19:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:26:54.339539
+2025-05-02 19:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:26:55.811852
+2025-05-02 19:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:36:54.337777
+2025-05-02 19:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:36:55.810711
+2025-05-02 19:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:46:54.335312
+2025-05-02 19:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:46:55.815044
+2025-05-02 19:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:56:54.334157
+2025-05-02 19:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 19:56:55.801715
+2025-05-02 20:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:06:54.347493
+2025-05-02 20:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:06:55.805720
+2025-05-02 20:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:16:54.337199
+2025-05-02 20:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:16:55.805146
+2025-05-02 20:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:26:54.339703
+2025-05-02 20:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:26:55.826596
+2025-05-02 20:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:36:54.336556
+2025-05-02 20:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:36:55.830887
+2025-05-02 20:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:46:54.343991
+2025-05-02 20:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:46:55.845409
+2025-05-02 20:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:56:54.337995
+2025-05-02 20:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 20:56:55.842847
+2025-05-02 21:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:06:54.332578
+2025-05-02 21:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:06:55.843186
+2025-05-02 21:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:16:54.335939
+2025-05-02 21:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:16:55.835208
+2025-05-02 21:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:26:54.342926
+2025-05-02 21:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:26:55.846041
+2025-05-02 21:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:36:54.338649
+2025-05-02 21:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:36:55.846022
+2025-05-02 21:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:46:54.346585
+2025-05-02 21:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:46:55.846443
+2025-05-02 21:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:56:54.334082
+2025-05-02 21:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 21:56:55.836140
+2025-05-02 21:58:32 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{be582b5c-0524-402d-8da5-32d885837af4}
+2025-05-02 22:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:06:54.338926
+2025-05-02 22:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:06:55.836453
+2025-05-02 22:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:16:54.344318
+2025-05-02 22:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:16:55.833466
+2025-05-02 22:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:26:54.336916
+2025-05-02 22:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:26:55.838193
+2025-05-02 22:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:36:54.339016
+2025-05-02 22:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:36:55.843050
+2025-05-02 22:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:46:54.360260
+2025-05-02 22:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:46:55.854878
+2025-05-02 22:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:56:54.360950
+2025-05-02 22:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 22:56:55.868790
+2025-05-02 23:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:06:54.355372
+2025-05-02 23:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:06:55.891050
+2025-05-02 23:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:16:54.374096
+2025-05-02 23:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:16:55.892693
+2025-05-02 23:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:26:54.368930
+2025-05-02 23:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:26:55.885900
+2025-05-02 23:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:36:54.368751
+2025-05-02 23:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:36:55.885140
+2025-05-02 23:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:46:54.372894
+2025-05-02 23:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:46:55.893717
+2025-05-02 23:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:56:54.368117
+2025-05-02 23:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-02 23:56:55.887932
+2025-05-03 00:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:06:54.381630
+2025-05-03 00:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:06:55.896888
+2025-05-03 00:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:16:54.384525
+2025-05-03 00:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:16:55.904595
+2025-05-03 00:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:26:54.385527
+2025-05-03 00:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:26:55.901494
+2025-05-03 00:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:36:54.383081
+2025-05-03 00:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:36:55.916256
+2025-05-03 00:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:46:54.394883
+2025-05-03 00:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:46:55.942118
+2025-05-03 00:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:56:54.389420
+2025-05-03 00:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 00:56:55.938456
+2025-05-03 01:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:06:54.384412
+2025-05-03 01:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:06:55.934413
+2025-05-03 01:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:16:54.401551
+2025-05-03 01:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:16:55.927405
+2025-05-03 01:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:26:54.402166
+2025-05-03 01:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:26:55.940147
+2025-05-03 01:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:36:54.395230
+2025-05-03 01:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:36:55.940920
+2025-05-03 01:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:46:54.399238
+2025-05-03 01:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:46:55.934293
+2025-05-03 01:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:56:54.404928
+2025-05-03 01:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 01:56:55.927952
+2025-05-03 02:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:06:54.410370
+2025-05-03 02:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:06:55.929882
+2025-05-03 02:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:16:54.409337
+2025-05-03 02:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:16:55.937767
+2025-05-03 02:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:26:54.412948
+2025-05-03 02:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:26:55.936582
+2025-05-03 02:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:36:54.409481
+2025-05-03 02:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:36:55.929741
+2025-05-03 02:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:46:54.421058
+2025-05-03 02:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:46:55.953146
+2025-05-03 02:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:56:54.437118
+2025-05-03 02:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 02:56:55.958227
+2025-05-03 03:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:06:54.431163
+2025-05-03 03:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:06:55.969418
+2025-05-03 03:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:16:54.428190
+2025-05-03 03:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:16:55.966906
+2025-05-03 03:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:26:54.441133
+2025-05-03 03:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:26:55.971211
+2025-05-03 03:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:36:54.435869
+2025-05-03 03:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:36:55.959684
+2025-05-03 03:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:46:54.428842
+2025-05-03 03:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:46:55.963674
+2025-05-03 03:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:56:54.440076
+2025-05-03 03:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 03:56:55.960072
+2025-05-03 04:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:06:54.437759
+2025-05-03 04:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:06:55.960380
+2025-05-03 04:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:16:54.433873
+2025-05-03 04:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:16:55.968004
+2025-05-03 04:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:26:54.432019
+2025-05-03 04:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:26:55.964796
+2025-05-03 04:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:36:54.429220
+2025-05-03 04:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:36:55.967120
+2025-05-03 04:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:46:54.437359
+2025-05-03 04:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:46:55.971955
+2025-05-03 04:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:56:54.434832
+2025-05-03 04:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 04:56:55.970667
+2025-05-03 05:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:06:54.437858
+2025-05-03 05:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:06:55.973288
+2025-05-03 05:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:16:54.431446
+2025-05-03 05:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:16:55.979690
+2025-05-03 05:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:26:54.434421
+2025-05-03 05:26:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:26:55.976502
+2025-05-03 05:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:36:54.433610
+2025-05-03 05:36:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:36:55.974021
+2025-05-03 05:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:46:54.436874
+2025-05-03 05:46:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:46:55.979748
+2025-05-03 05:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:56:54.431570
+2025-05-03 05:56:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 05:56:55.978445
+2025-05-03 06:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:06:54.428816
+2025-05-03 06:06:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:06:55.987190
+2025-05-03 06:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:16:54.440385
+2025-05-03 06:16:55 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:16:55.979706
+2025-05-03 06:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:26:54.431267
+2025-05-03 06:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:26:56.005561
+2025-05-03 06:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:36:54.432942
+2025-05-03 06:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:36:56.016713
+2025-05-03 06:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:46:54.442354
+2025-05-03 06:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:46:56.032778
+2025-05-03 06:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:56:54.446731
+2025-05-03 06:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 06:56:56.029866
+2025-05-03 07:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:06:54.461561
+2025-05-03 07:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:06:56.033049
+2025-05-03 07:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:16:54.461737
+2025-05-03 07:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:16:56.025994
+2025-05-03 07:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:26:54.469292
+2025-05-03 07:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:26:56.050930
+2025-05-03 07:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:36:54.461552
+2025-05-03 07:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:36:56.039313
+2025-05-03 07:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:46:54.469236
+2025-05-03 07:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:46:56.053659
+2025-05-03 07:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:56:54.469656
+2025-05-03 07:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 07:56:56.064558
+2025-05-03 08:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:06:54.459896
+2025-05-03 08:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:06:56.055664
+2025-05-03 08:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:16:54.473949
+2025-05-03 08:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:16:56.052460
+2025-05-03 08:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:26:54.474677
+2025-05-03 08:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:26:56.053307
+2025-05-03 08:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:36:54.484264
+2025-05-03 08:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:36:56.062449
+2025-05-03 08:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:46:54.501939
+2025-05-03 08:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:46:56.053299
+2025-05-03 08:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:56:54.498085
+2025-05-03 08:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 08:56:56.065574
+2025-05-03 09:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:06:54.495617
+2025-05-03 09:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:06:56.062712
+2025-05-03 09:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:16:54.507452
+2025-05-03 09:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:16:56.074562
+2025-05-03 09:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:26:54.511326
+2025-05-03 09:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:26:56.087641
+2025-05-03 09:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:36:54.505639
+2025-05-03 09:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:36:56.089038
+2025-05-03 09:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:46:54.512538
+2025-05-03 09:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:46:56.097141
+2025-05-03 09:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:56:54.518049
+2025-05-03 09:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 09:56:56.085123
+2025-05-03 10:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:06:54.514390
+2025-05-03 10:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:06:56.096513
+2025-05-03 10:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:16:54.510671
+2025-05-03 10:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:16:56.106624
+2025-05-03 10:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:26:54.525862
+2025-05-03 10:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:26:56.109545
+2025-05-03 10:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:36:54.546116
+2025-05-03 10:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:36:56.106901
+2025-05-03 10:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:46:54.563666
+2025-05-03 10:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:46:56.099230
+2025-05-03 10:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:56:54.560594
+2025-05-03 10:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 10:56:56.105766
+2025-05-03 11:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:06:54.571668
+2025-05-03 11:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:06:56.131813
+2025-05-03 11:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:16:54.554098
+2025-05-03 11:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:16:56.115981
+2025-05-03 11:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:26:54.552757
+2025-05-03 11:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:26:56.132293
+2025-05-03 11:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:36:54.566722
+2025-05-03 11:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:36:56.146080
+2025-05-03 11:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:46:54.553313
+2025-05-03 11:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:46:56.163764
+2025-05-03 11:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:56:54.566895
+2025-05-03 11:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 11:56:56.172097
+2025-05-03 12:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:06:54.553382
+2025-05-03 12:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:06:56.161573
+2025-05-03 12:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:16:54.575177
+2025-05-03 12:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:16:56.193138
+2025-05-03 12:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:26:54.577030
+2025-05-03 12:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:26:56.198724
+2025-05-03 12:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:36:54.592553
+2025-05-03 12:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:36:56.198601
+2025-05-03 12:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:46:54.593589
+2025-05-03 12:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:46:56.206860
+2025-05-03 12:56:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:56:54.590865
+2025-05-03 12:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 12:56:56.195939
+2025-05-03 13:06:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:06:54.588082
+2025-05-03 13:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:06:56.215803
+2025-05-03 13:16:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:16:54.602820
+2025-05-03 13:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:16:56.208696
+2025-05-03 13:26:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:26:54.599955
+2025-05-03 13:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:26:56.212971
+2025-05-03 13:36:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:36:54.599715
+2025-05-03 13:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:36:56.210236
+2025-05-03 13:46:54 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:46:54.610285
+2025-05-03 13:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:46:56.220156
+2025-05-03 13:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:56:56.014189
+2025-05-03 13:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 13:56:57.611998
+2025-05-03 14:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:06:56.030147
+2025-05-03 14:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:06:57.641147
+2025-05-03 14:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:16:56.026102
+2025-05-03 14:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:16:57.648021
+2025-05-03 14:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:26:56.037738
+2025-05-03 14:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:26:57.668928
+2025-05-03 14:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:36:56.034648
+2025-05-03 14:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:36:57.665946
+2025-05-03 14:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:46:56.042774
+2025-05-03 14:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:46:57.658331
+2025-05-03 14:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:56:56.043629
+2025-05-03 14:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 14:56:57.660518
+2025-05-03 15:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:06:56.049540
+2025-05-03 15:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:06:57.659427
+2025-05-03 15:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:16:56.071007
+2025-05-03 15:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:16:57.669192
+2025-05-03 15:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:26:56.079289
+2025-05-03 15:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:26:57.663737
+2025-05-03 15:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:36:56.066182
+2025-05-03 15:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:36:57.661333
+2025-05-03 15:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:46:56.066596
+2025-05-03 15:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:46:57.685311
+2025-05-03 15:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:56:56.065562
+2025-05-03 15:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 15:56:57.701935
+2025-05-03 16:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:06:56.090871
+2025-05-03 16:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:06:57.689837
+2025-05-03 16:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:16:56.080593
+2025-05-03 16:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:16:57.704388
+2025-05-03 16:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:26:56.098431
+2025-05-03 16:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:26:57.700156
+2025-05-03 16:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:36:56.100493
+2025-05-03 16:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:36:57.706887
+2025-05-03 16:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:46:56.107695
+2025-05-03 16:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:46:57.717829
+2025-05-03 16:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:56:56.120993
+2025-05-03 16:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 16:56:57.729111
+2025-05-03 17:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:06:56.116497
+2025-05-03 17:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:06:57.721624
+2025-05-03 17:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:16:56.132989
+2025-05-03 17:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:16:57.724500
+2025-05-03 17:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:26:56.145936
+2025-05-03 17:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:26:57.729102
+2025-05-03 17:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:36:56.151999
+2025-05-03 17:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:36:57.729004
+2025-05-03 17:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:46:56.144189
+2025-05-03 17:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:46:57.729703
+2025-05-03 17:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:56:56.157655
+2025-05-03 17:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 17:56:57.721170
+2025-05-03 18:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:06:56.157317
+2025-05-03 18:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:06:57.721111
+2025-05-03 18:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:16:56.155034
+2025-05-03 18:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:16:57.732194
+2025-05-03 18:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:26:56.146989
+2025-05-03 18:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:26:57.736685
+2025-05-03 18:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:36:56.157576
+2025-05-03 18:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:36:57.742261
+2025-05-03 18:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:46:56.149375
+2025-05-03 18:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:46:57.745483
+2025-05-03 18:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:56:56.146844
+2025-05-03 18:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 18:56:57.761395
+2025-05-03 19:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:06:56.147094
+2025-05-03 19:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:06:57.763402
+2025-05-03 19:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:16:56.144360
+2025-05-03 19:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:16:57.753625
+2025-05-03 19:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:26:56.168280
+2025-05-03 19:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:26:57.781664
+2025-05-03 19:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:36:56.170288
+2025-05-03 19:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:36:57.773934
+2025-05-03 19:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:46:56.160791
+2025-05-03 19:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:46:57.771469
+2025-05-03 19:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:56:56.158319
+2025-05-03 19:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 19:56:57.781052
+2025-05-03 20:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:06:56.166814
+2025-05-03 20:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:06:57.797904
+2025-05-03 20:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:16:56.174823
+2025-05-03 20:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:16:57.802276
+2025-05-03 20:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:26:56.167560
+2025-05-03 20:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:26:57.823410
+2025-05-03 20:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:36:56.175645
+2025-05-03 20:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:36:57.817267
+2025-05-03 20:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:46:56.175948
+2025-05-03 20:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:46:57.833304
+2025-05-03 20:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:56:56.189681
+2025-05-03 20:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 20:56:57.845930
+2025-05-03 21:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:06:56.201519
+2025-05-03 21:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:06:57.843657
+2025-05-03 21:08:36 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{82777277-4229-4ba6-acd4-7e8977eef1df}
+2025-05-03 21:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:16:56.193174
+2025-05-03 21:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:16:57.834002
+2025-05-03 21:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:26:56.195773
+2025-05-03 21:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:26:57.832285
+2025-05-03 21:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:36:56.192409
+2025-05-03 21:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:36:57.831718
+2025-05-03 21:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:46:56.202575
+2025-05-03 21:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:46:57.857504
+2025-05-03 21:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:56:56.189357
+2025-05-03 21:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 21:56:57.830456
+2025-05-03 22:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:06:56.191374
+2025-05-03 22:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:06:57.834138
+2025-05-03 22:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:16:56.189197
+2025-05-03 22:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:16:57.832654
+2025-05-03 22:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:26:56.191689
+2025-05-03 22:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:26:57.830647
+2025-05-03 22:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:36:56.190438
+2025-05-03 22:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:36:57.831255
+2025-05-03 22:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:46:56.199448
+2025-05-03 22:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:46:57.847163
+2025-05-03 22:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:56:56.193318
+2025-05-03 22:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 22:56:57.834305
+2025-05-03 23:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:06:56.197095
+2025-05-03 23:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:06:57.832332
+2025-05-03 23:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:16:56.191092
+2025-05-03 23:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:16:57.832755
+2025-05-03 23:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:26:56.197892
+2025-05-03 23:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:26:57.834656
+2025-05-03 23:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:36:56.191491
+2025-05-03 23:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:36:57.836865
+2025-05-03 23:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:46:56.192001
+2025-05-03 23:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:46:57.831871
+2025-05-03 23:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:56:56.191798
+2025-05-03 23:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-03 23:56:57.831543
+2025-05-04 00:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:06:56.199531
+2025-05-04 00:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:06:57.833025
+2025-05-04 00:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:16:56.207812
+2025-05-04 00:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:16:57.834830
+2025-05-04 00:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:26:56.219674
+2025-05-04 00:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:26:57.831034
+2025-05-04 00:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:36:56.205898
+2025-05-04 00:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:36:57.835680
+2025-05-04 00:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:46:56.205937
+2025-05-04 00:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:46:57.830744
+2025-05-04 00:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:56:56.210919
+2025-05-04 00:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 00:56:57.834581
+2025-05-04 01:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:06:56.229832
+2025-05-04 01:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:06:57.852084
+2025-05-04 01:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:16:56.228076
+2025-05-04 01:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:16:57.856523
+2025-05-04 01:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:26:56.223808
+2025-05-04 01:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:26:57.859585
+2025-05-04 01:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:36:56.232632
+2025-05-04 01:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:36:57.872708
+2025-05-04 01:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:46:56.231056
+2025-05-04 01:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:46:57.867797
+2025-05-04 01:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:56:56.235336
+2025-05-04 01:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 01:56:57.882092
+2025-05-04 02:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:06:56.225221
+2025-05-04 02:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:06:57.894657
+2025-05-04 02:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:16:56.227739
+2025-05-04 02:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:16:57.903574
+2025-05-04 02:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:26:56.227369
+2025-05-04 02:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:26:57.905069
+2025-05-04 02:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:36:56.232782
+2025-05-04 02:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:36:57.893790
+2025-05-04 02:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:46:56.232583
+2025-05-04 02:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:46:57.897011
+2025-05-04 02:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:56:56.228039
+2025-05-04 02:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 02:56:57.909448
+2025-05-04 03:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:06:56.227382
+2025-05-04 03:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:06:57.923541
+2025-05-04 03:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:16:56.232307
+2025-05-04 03:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:16:57.925510
+2025-05-04 03:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:26:56.222335
+2025-05-04 03:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:26:57.946124
+2025-05-04 03:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:36:56.230117
+2025-05-04 03:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:36:57.954253
+2025-05-04 03:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:46:56.228827
+2025-05-04 03:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:46:57.949124
+2025-05-04 03:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:56:56.224212
+2025-05-04 03:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 03:56:57.950375
+2025-05-04 04:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:06:56.220679
+2025-05-04 04:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:06:57.946956
+2025-05-04 04:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:16:56.232014
+2025-05-04 04:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:16:57.944962
+2025-05-04 04:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:26:56.226512
+2025-05-04 04:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:26:57.939643
+2025-05-04 04:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:36:56.228562
+2025-05-04 04:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:36:57.957517
+2025-05-04 04:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:46:56.227989
+2025-05-04 04:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:46:57.962516
+2025-05-04 04:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:56:56.246556
+2025-05-04 04:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 04:56:57.974027
+2025-05-04 05:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:06:56.244868
+2025-05-04 05:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:06:57.971352
+2025-05-04 05:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:16:56.244460
+2025-05-04 05:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:16:57.986152
+2025-05-04 05:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:26:56.238978
+2025-05-04 05:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:26:58.013082
+2025-05-04 05:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:36:56.259341
+2025-05-04 05:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:36:58.002247
+2025-05-04 05:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:46:56.274858
+2025-05-04 05:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:46:58.020662
+2025-05-04 05:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:56:56.275628
+2025-05-04 05:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 05:56:58.019577
+2025-05-04 06:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:06:56.281142
+2025-05-04 06:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:06:58.021714
+2025-05-04 06:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:16:56.278814
+2025-05-04 06:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:16:58.023215
+2025-05-04 06:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:26:56.284694
+2025-05-04 06:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:26:58.027127
+2025-05-04 06:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:36:56.283984
+2025-05-04 06:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:36:58.034447
+2025-05-04 06:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:46:56.285786
+2025-05-04 06:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:46:58.033976
+2025-05-04 06:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:56:56.311907
+2025-05-04 06:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 06:56:58.055408
+2025-05-04 07:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:06:56.323293
+2025-05-04 07:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:06:58.076902
+2025-05-04 07:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:16:56.315511
+2025-05-04 07:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:16:58.076251
+2025-05-04 07:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:26:56.316807
+2025-05-04 07:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:26:58.076258
+2025-05-04 07:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:36:56.318490
+2025-05-04 07:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:36:58.074598
+2025-05-04 07:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:46:56.334669
+2025-05-04 07:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:46:58.076709
+2025-05-04 07:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:56:56.350542
+2025-05-04 07:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 07:56:58.072730
+2025-05-04 08:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:06:56.358419
+2025-05-04 08:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:06:58.074267
+2025-05-04 08:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:16:56.356914
+2025-05-04 08:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:16:58.093532
+2025-05-04 08:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:26:56.360938
+2025-05-04 08:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:26:58.099428
+2025-05-04 08:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:36:56.387289
+2025-05-04 08:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:36:58.102982
+2025-05-04 08:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:46:56.393429
+2025-05-04 08:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:46:58.100782
+2025-05-04 08:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:56:56.399265
+2025-05-04 08:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 08:56:58.106165
+2025-05-04 09:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:06:56.399113
+2025-05-04 09:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:06:58.125425
+2025-05-04 09:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:16:56.392815
+2025-05-04 09:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:16:58.117563
+2025-05-04 09:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:26:56.413705
+2025-05-04 09:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:26:58.141699
+2025-05-04 09:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:36:56.407922
+2025-05-04 09:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:36:58.150697
+2025-05-04 09:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:46:56.408486
+2025-05-04 09:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:46:58.144434
+2025-05-04 09:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:56:56.412576
+2025-05-04 09:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 09:56:58.145664
+2025-05-04 10:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:06:56.411226
+2025-05-04 10:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:06:58.156600
+2025-05-04 10:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:16:56.421457
+2025-05-04 10:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:16:58.147801
+2025-05-04 10:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:26:56.428836
+2025-05-04 10:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:26:58.152447
+2025-05-04 10:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:36:56.431504
+2025-05-04 10:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:36:58.167382
+2025-05-04 10:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:46:56.445813
+2025-05-04 10:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:46:58.175339
+2025-05-04 10:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:56:56.466173
+2025-05-04 10:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 10:56:58.189195
+2025-05-04 11:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:06:56.471562
+2025-05-04 11:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:06:58.195490
+2025-05-04 11:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:16:56.470437
+2025-05-04 11:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:16:58.210072
+2025-05-04 11:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:26:56.483734
+2025-05-04 11:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:26:58.208469
+2025-05-04 11:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:36:56.481833
+2025-05-04 11:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:36:58.216902
+2025-05-04 11:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:46:56.479347
+2025-05-04 11:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:46:58.229380
+2025-05-04 11:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:56:56.476532
+2025-05-04 11:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 11:56:58.245300
+2025-05-04 12:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:06:56.477080
+2025-05-04 12:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:06:58.259802
+2025-05-04 12:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:16:56.500361
+2025-05-04 12:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:16:58.252060
+2025-05-04 12:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:26:56.493840
+2025-05-04 12:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:26:58.272047
+2025-05-04 12:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:36:56.510468
+2025-05-04 12:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:36:58.273175
+2025-05-04 12:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:46:56.517023
+2025-05-04 12:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:46:58.275401
+2025-05-04 12:56:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:56:56.518845
+2025-05-04 12:56:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 12:56:58.270419
+2025-05-04 13:06:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:06:56.528863
+2025-05-04 13:06:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:06:58.273538
+2025-05-04 13:16:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:16:56.545425
+2025-05-04 13:16:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:16:58.288499
+2025-05-04 13:26:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:26:56.542622
+2025-05-04 13:26:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:26:58.297411
+2025-05-04 13:36:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:36:56.539867
+2025-05-04 13:36:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:36:58.293936
+2025-05-04 13:46:56 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:46:56.533826
+2025-05-04 13:46:58 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:46:58.291568
+2025-05-04 13:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:56:57.752432
+2025-05-04 13:56:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 13:56:59.507501
+2025-05-04 14:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:06:57.770417
+2025-05-04 14:06:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:06:59.525382
+2025-05-04 14:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:16:57.778546
+2025-05-04 14:16:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:16:59.530332
+2025-05-04 14:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:26:57.793686
+2025-05-04 14:26:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:26:59.547916
+2025-05-04 14:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:36:57.817747
+2025-05-04 14:36:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:36:59.556509
+2025-05-04 14:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:46:57.815740
+2025-05-04 14:46:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:46:59.582078
+2025-05-04 14:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:56:57.833426
+2025-05-04 14:56:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 14:56:59.584459
+2025-05-04 15:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:06:57.841843
+2025-05-04 15:06:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:06:59.597499
+2025-05-04 15:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:16:57.849747
+2025-05-04 15:16:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:16:59.589865
+2025-05-04 15:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:26:57.858507
+2025-05-04 15:26:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:26:59.611339
+2025-05-04 15:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:36:57.852785
+2025-05-04 15:36:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:36:59.604981
+2025-05-04 15:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:46:57.869567
+2025-05-04 15:46:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:46:59.610191
+2025-05-04 15:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:56:57.877900
+2025-05-04 15:56:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 15:56:59.613849
+2025-05-04 16:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:06:57.877882
+2025-05-04 16:06:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:06:59.618386
+2025-05-04 16:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:16:57.871891
+2025-05-04 16:16:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:16:59.630327
+2025-05-04 16:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:26:57.879758
+2025-05-04 16:26:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:26:59.637120
+2025-05-04 16:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:36:57.873274
+2025-05-04 16:36:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:36:59.640312
+2025-05-04 16:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:46:57.882564
+2025-05-04 16:46:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:46:59.650436
+2025-05-04 16:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:56:57.902985
+2025-05-04 16:56:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 16:56:59.659789
+2025-05-04 17:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:06:57.907541
+2025-05-04 17:06:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:06:59.677584
+2025-05-04 17:16:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:16:57.913149
+2025-05-04 17:16:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:16:59.692147
+2025-05-04 17:26:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:26:57.916038
+2025-05-04 17:26:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:26:59.687430
+2025-05-04 17:36:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:36:57.923159
+2025-05-04 17:36:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:36:59.679062
+2025-05-04 17:46:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:46:57.917148
+2025-05-04 17:46:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:46:59.688519
+2025-05-04 17:56:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:56:57.924290
+2025-05-04 17:56:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 17:56:59.680924
+2025-05-04 18:06:57 INFO weather.py:369: Fetched new weather data at 2025-05-04 18:06:57.929937
+2025-05-04 18:06:59 INFO weather.py:369: Fetched new weather data at 2025-05-04 18:06:59.692994
+2025-05-04 18:14:19 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-05-04 18:14:23 INFO log.py:21: Yasb v1.6.8
+2025-05-04 18:14:24 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-04 18:14:29 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-04 18:14:29 INFO weather.py:369: Fetched new weather data at 2025-05-04 18:14:29.732845
+2025-05-04 18:14:29 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-04 18:14:31 INFO event_listener.py:52: Created named pipe yasb-86682683-28e5-11f0-b4b4-983b8fb44956
+2025-05-04 18:14:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-86682683-28e5-11f0-b4b4-983b8fb44956
+2025-05-04 18:14:31 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-04 18:14:31 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-04 18:14:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-04 18:14:31 DEBUG _windows.py:192: Thread started
+2025-05-04 18:14:31 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_3440d863)
+2025-05-04 18:14:31 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-04 18:14:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-86682683-28e5-11f0-b4b4-983b8fb44956
+2025-05-05 02:55:17 INFO weather.py:369: Fetched new weather data at 2025-05-05 02:55:17.521652
+2025-05-05 02:55:30 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-05 03:05:17 INFO weather.py:369: Fetched new weather data at 2025-05-05 03:05:17.529291
+2025-05-05 03:15:17 INFO weather.py:369: Fetched new weather data at 2025-05-05 03:15:17.528932
+2025-05-05 03:25:17 INFO weather.py:369: Fetched new weather data at 2025-05-05 03:25:17.550595
+2025-05-05 03:44:10 INFO weather.py:369: Fetched new weather data at 2025-05-05 03:44:10.518760
+2025-05-05 03:44:12 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-05 03:46:34 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_3440d863)
+2025-05-05 03:46:34 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-05 03:46:34 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_3440d863)
+2025-05-05 03:46:34 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-05 23:39:02 INFO weather.py:369: Fetched new weather data at 2025-05-05 23:39:02.533700
+2025-05-05 23:39:03 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-05 23:49:02 INFO weather.py:369: Fetched new weather data at 2025-05-05 23:49:02.537102
+2025-05-05 11:23:40 INFO log.py:21: Yasb v1.6.8
+2025-05-05 11:23:40 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-05 11:23:44 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-05 11:23:45 INFO weather.py:369: Fetched new weather data at 2025-05-05 11:23:45.039876
+2025-05-05 11:23:45 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-05 11:23:45 INFO event_listener.py:52: Created named pipe yasb-14e47ebf-29de-11f0-b7b2-983b8fb44956
+2025-05-05 11:23:45 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-14e47ebf-29de-11f0-b7b2-983b8fb44956
+2025-05-05 11:23:45 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-05 11:23:45 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\yasb
+2025-05-05 11:23:45 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 11:23:45 DEBUG _windows.py:192: Thread started
+2025-05-05 11:23:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-14e47ebf-29de-11f0-b7b2-983b8fb44956
+2025-05-05 11:33:45 INFO weather.py:369: Fetched new weather data at 2025-05-05 11:33:45.048934
+2025-05-05 11:43:44 INFO weather.py:369: Fetched new weather data at 2025-05-05 11:43:44.984375
+2025-05-05 11:47:45 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_4531b7e0)
+2025-05-05 11:47:45 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-05-05 11:54:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 11:54:42.520965
+2025-05-05 12:04:28 INFO bar.py:100: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_4531b7e0)
+2025-05-05 12:04:28 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-05 12:04:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 12:04:42.514661
+2025-05-05 12:14:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 12:14:42.512280
+2025-05-05 12:24:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 12:24:42.518997
+2025-05-05 12:34:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 12:34:42.538166
+2025-05-05 12:44:42 INFO weather.py:369: Fetched new weather data at 2025-05-05 12:44:42.536572
+2025-05-05 16:35:12 INFO weather.py:369: Fetched new weather data at 2025-05-05 16:35:12.552860
+2025-05-05 16:35:12 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-05 16:51:43 INFO log.py:21: Yasb v1.6.8
+2025-05-05 16:51:43 DEBUG win32.py:55: Looking up time zone info from registry
+2025-05-05 16:51:47 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-05-05 16:51:48 INFO weather.py:369: Fetched new weather data at 2025-05-05 16:51:48.368573
+2025-05-05 16:51:48 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2025-05-05 16:51:49 INFO event_listener.py:52: Created named pipe yasb-e912223d-2a0b-11f0-a23e-983b8fb44956
+2025-05-05 16:51:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e912223d-2a0b-11f0-a23e-983b8fb44956
+2025-05-05 16:51:49 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-05-05 16:51:49 INFO watcher.py:39: Created file watcher for path C:\Users\risha\.config\WinWM\yasb
+2025-05-05 16:51:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 16:51:49 DEBUG _windows.py:192: Thread started
+2025-05-05 16:51:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e912223d-2a0b-11f0-a23e-983b8fb44956
