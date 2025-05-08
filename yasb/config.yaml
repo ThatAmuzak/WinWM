@@ -32,18 +32,7 @@ bars:
     widgets:
       left: ["home", "komorebi_workspaces", "apps"]
       center: ["clock"]
-      right:
-        [
-          "disk",
-          "cpu",
-          "memory",
-          "traffic",
-          "wifi",
-          "weather",
-          "volume",
-          "notifications",
-          "power_menu",
-        ]
+      right: ["cpu", "memory", "wifi", "volume", "power_menu"]
 widgets:
   cpu:
     type: "yasb.cpu.CpuWidget"

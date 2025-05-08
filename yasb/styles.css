@@ -27,6 +27,11 @@
     --crust: #11111b;
     --main: #10151d;
 }
+.yasb-bar {
+    background-color: #0b0e1a; 
+    padding: 4px 6px;
+    border-radius: 8px;
+}
 /* Global menu section, widgets. labels and icons */
 QToolTip {
     margin: 6px;
