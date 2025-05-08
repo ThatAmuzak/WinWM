@@ -110,7 +110,7 @@ widgets:
         round_corners: true
         border_color: None
         distance: 4
-        alignment: "left"
+        alignment: "center"
   komorebi_workspaces:
     type: "komorebi.workspaces.WorkspaceWidget"
     options:
