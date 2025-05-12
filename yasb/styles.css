@@ -45,7 +45,7 @@ QToolTip {
     font-size: 12px;
     color: var(--subtext0);
     font-weight: 600;
-    font-family: Arial, Helvetica;
+    font-family:  "JetBrainsMono NFP";
     margin: 0;
     padding: 0;
 }
@@ -136,7 +136,11 @@ QToolTip {
 }
 .volume-widget .icon {
     color: var(--pink);
-    margin-right: 6px;
+    min-width: 20px;
+}
+.microphone-widget .icon {
+    color: var(--peach);
+    min-width: 20px;
 }
 .power-menu-widget .label {
     color: var(--red);
@@ -203,7 +207,7 @@ QToolTip {
 .home-menu .menu-item {
     padding: 8px 38px 9px 16px;
     font-size: 12px;
-    font-family: 'Segoe UI';
+    font-family: "JetBrainsMono NFP";
     color: var(--text);
     font-weight: 600;
 }
@@ -245,11 +249,11 @@ QToolTip {
     border-radius: 14px;
 }
 .disk-group-label {
-    font-family: 'Segoe UI';
+    font-family: "JetBrainsMono NFP";
 }
 .disk-group-label-size {
     font-weight: 600;
-    font-family: 'Segoe UI';
+    font-family: "JetBrainsMono NFP";
     font-size: 11px;
     color: #666879;
 }
@@ -268,6 +272,36 @@ QToolTip {
     border-top: 4px solid rgba(58, 59, 83, 0);
     border-bottom: 4px solid rgba(58, 59, 83, 0);
     margin: 0px;
+}
+.media-widget {
+	margin: 0;
+}
+.media-widget .label {
+    font-size: 14px;
+    padding: 0 0px;
+	background-color: rgba(0, 0, 0, 0.0);
+}
+.media-widget .btn {
+	padding: 0 3px;
+	margin: 4px 0;
+}
+.media-widget .btn.next {
+	border-radius: 14px;
+	font-size: 16px;
+}
+.media-widget .btn.prev {
+	border-radius: 14px;
+	font-size: 16px;
+}
+.media-widget .btn.pause {
+	border-radius: 14px;
+	font-size: 12px;
+    padding: 0 3px;
+}
+.media-widget .btn.play {
+	border-radius: 14px;
+	font-size: 12px;
+    padding: 0 5px;
 }
 .power-menu-popup .button.hover {
     background-color: var(--base);
@@ -307,7 +341,7 @@ QToolTip {
 .weather-card-today .label {
     font-size: 13px;
     font-weight: 600;
-    font-family: 'Segoe UI';
+    font-family: "JetBrainsMono NFP";
 }
 .weather-card-today .label.location {
     font-size: 24px;
@@ -320,7 +354,7 @@ QToolTip {
 }
 .weather-card-day .label {
     font-weight: 600;
-    font-family: 'Segoe UI';
+    font-family: "JetBrainsMono NFP";
 }
 .weather-card-today .label.arert {
     font-size: 12px;
