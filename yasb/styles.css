@@ -30,7 +30,7 @@
 .yasb-bar {
     background-color: #0b0e1a; 
     padding: 4px 6px;
-    border-radius: 8px;
+    border-radius: 0px;
 }
 /* Global menu section, widgets. labels and icons */
 QToolTip {
