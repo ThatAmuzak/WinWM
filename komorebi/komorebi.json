@@ -25,6 +25,18 @@
       "transparency": "Linear"
     }
   },
+  "ignore_rules": [
+    {
+      "kind": "Path",
+      "id": "C:\\WINDOWS\\SYSTEM32\\cmd.exe",
+      "matching_strategy": "Equals"
+    },
+    {
+      "kind": "Title",
+      "id": "Terminal",
+      "matching_strategy": "Equals"
+    }
+  ],
   "monitors": [
     {
       "workspaces": [
