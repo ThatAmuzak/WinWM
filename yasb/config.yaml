@@ -30,10 +30,9 @@ bars:
       bottom: 0
       right: 0
     widgets:
-      left: ["home", "komorebi_workspaces", "apps"]
+      left: ["home", "komorebi_workspaces", "apps", "media"]
       center: ["clock"]
-      right:
-        ["cpu", "memory", "wifi", "media", "microphone", "volume", "power_menu"]
+      right: ["cpu", "memory", "wifi", "microphone", "volume", "power_menu"]
 widgets:
   cpu:
     type: "yasb.cpu.CpuWidget"
@@ -253,7 +252,7 @@ widgets:
   media:
     type: "yasb.media.MediaWidget"
     options:
-      label: "{title} - {artist}"
+      label: "{title}"
       label_alt: "{title}"
       hide_empty: true
       callbacks:
@@ -261,8 +260,8 @@ widgets:
         on_middle: "do_nothing"
         on_right: "do_nothing"
       max_field_size:
-        label: 20
-        label_alt: 30
+        label: 15
+        label_alt: 15
       show_thumbnail: true
       controls_only: false
       controls_left: true
