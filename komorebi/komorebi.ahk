@@ -16,8 +16,7 @@ Komorebic(cmd) {
 #l::Komorebic("focus right")                     ; Win+L focuses the window to the right
 
 ; Cycle focus
-!n::Komorebic("cycle-focus next")                ; Alt+N cycles focus to the next window
-!p::Komorebic("cycle-focus previous")            ; Alt+P cycles focus to the previous window
+!e::Komorebic("cycle-focus next")                ; Alt+F cycles focus to the next window
 
 ; Move windows with Win+Shift+h/j/k/l
 #+h::Komorebic("move left")                      ; Win+Shift+H moves window left
@@ -45,15 +44,9 @@ Komorebic(cmd) {
 !+2::Komorebic("move-to-workspace 1")            ; Alt+Shift+2 moves window to workspace 1
 !+3::Komorebic("move-to-workspace 2")            ; Alt+Shift+3 moves window to workspace 2
 
-; Move to next/previous workspace
-^!n::Komorebic("focus-workspace next")           ; Ctrl+Alt+N moves to next workspace
-^!p::Komorebic("focus-workspace previous")       ; Ctrl+Alt+P moves to previous workspace
-
 ; Cycle between monitors
-!+n::Komorebic("cycle-monitor next")             ; Alt+Shift+N cycles to next monitor
-!+p::Komorebic("cycle-monitor previous")         ; Alt+Shift+P cycles to previous monitor
+!w::Komorebic("cycle-monitor next")             ; Alt+W cycles to next monitor
 
 ; Move window to another monitor
-^!+n::Komorebic("cycle-move-to-monitor next")    ; Ctrl+Alt+Shift+N moves window to next monitor
-^!+p::Komorebic("cycle-move-to-monitor previous") ; Ctrl+Alt+Shift+P moves window to previous monitor
+!n::Komorebic("cycle-move-to-monitor next")    ; Alt+N moves window to next monitor
 
