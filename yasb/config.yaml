@@ -165,8 +165,6 @@ widgets:
       hide_unsupported: True
       charging_options:
         icon_format: "{charging_icon}"
-        blink_charging_icon: true
-        blink_interval: 500
       status_thresholds:
         critical: 10
         low: 25
